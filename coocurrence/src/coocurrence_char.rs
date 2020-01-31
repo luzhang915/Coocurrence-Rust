@@ -15,8 +15,8 @@ pub fn coocurrence_all(trace : &String, set:Vec<char>, window_bound:u32) {
         println!("i: {}, c: {}", i, c);
         if set.contains(&c) {
             if stack[set.len()-1] == c{
-                let second_from_bottom = i as u32-*reuses.get(&stack[set.len()-2]).unwrap();
-                let bottom = i as u32-*reuses.get(&stack[set.len()-1]).unwrap();
+                let second_from_bottom = i as u32 - *reuses.get(&stack[set.len()-2]).unwrap();
+                let bottom = i as u32 - *reuses.get(&stack[set.len()-1]).unwrap();
                 histogram.insert(second_from_bottom, match histogram.get(&second_from_bottom)
                     {None=>0,
                         Some(x)=>*x}-1);
