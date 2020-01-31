@@ -78,3 +78,4 @@ def plot_multiple():
 
 
 plot_multiple()
+plot1()

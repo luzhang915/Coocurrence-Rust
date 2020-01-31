@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb84b7de-cce6-4419-a832-62da7693c6b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/coocurrence/src/coocurrence_char.rs" beforeDir="false" afterPath="$PROJECT_DIR$/coocurrence/src/coocurrence_char.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coocurrence/src/coocurrence_words.rs" beforeDir="false" afterPath="$PROJECT_DIR$/coocurrence/src/coocurrence_words.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coocurrence/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/coocurrence/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coocurrence/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/coocurrence/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coocurrence/results/plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/coocurrence/results/plot.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,10 +20,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coocurrence/src/main.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="36" column="107" selection-start-line="36" selection-start-column="107" selection-end-line="36" selection-end-column="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/coocurrence/results/plot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1596">
-              <caret line="76" column="42" lean-forward="true" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
+            <state relative-caret-position="320">
+              <caret line="80" column="5" lean-forward="true" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -62,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coocurrence/src/coocurrence_words.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
+            <state relative-caret-position="326">
+              <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -114,9 +121,9 @@
         <option value="$PROJECT_DIR$/coocurrence/src/coocurrence_unicode.rs" />
         <option value="$PROJECT_DIR$/coocurrence/src/coocurrence_char.rs" />
         <option value="$PROJECT_DIR$/coocurrence/test.txt" />
-        <option value="$PROJECT_DIR$/coocurrence/src/coocurrence_words.rs" />
         <option value="$PROJECT_DIR$/coocurrence/results/word1-Sherlock-Holmes-Watson.txt" />
         <option value="$PROJECT_DIR$/coocurrence/src/main.rs" />
+        <option value="$PROJECT_DIR$/coocurrence/src/coocurrence_words.rs" />
         <option value="$PROJECT_DIR$/coocurrence/results/plot.py" />
       </list>
     </option>
@@ -238,7 +245,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579807102421</updated>
       <workItem from="1579807103988" duration="30115000" />
-      <workItem from="1580448226819" duration="2054000" />
+      <workItem from="1580448226819" duration="2555000" />
     </task>
     <task id="LOCAL-00001" summary="run coocurrence_words on sherlockholmes.txt">
       <created>1579844513889</created>
@@ -251,10 +258,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32169000" />
+    <option name="totallyTimeSpent" value="32670000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1171" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -335,13 +343,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coocurrence/src/main.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="36" column="107" selection-start-line="36" selection-start-column="107" selection-end-line="36" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coocurrence/results/word3-deceptive-obvious-fact.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -381,29 +382,36 @@
     <entry file="file://$PROJECT_DIR$/coocurrence/results/ word4-do-you-see.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/coocurrence/results/plot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1596">
-          <caret line="76" column="42" lean-forward="true" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coocurrence/results/words_five_10000.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/coocurrence/results/words_five.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/coocurrence/src/output_to_file.rs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/coocurrence/results/words_five_10000.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/coocurrence/src/coocurrence_words.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
+        <state relative-caret-position="326">
+          <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coocurrence/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="36" column="107" selection-start-line="36" selection-start-column="107" selection-end-line="36" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coocurrence/results/plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="80" column="5" lean-forward="true" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
