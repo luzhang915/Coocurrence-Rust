@@ -58,9 +58,9 @@ pub fn coocurrence_all(trace: &String, set: Vec<String>, window_bound: u32) {
         count_1+=num;
         count_2+=num*(i as i32+1);
 
-        if i as u32 <= window_bound{
-            println!("{} {}", i, (word_trace.len() as i32 -i as i32+1)-(count_2-i as i32*count_1));
-        }
-
+//        if i as u32 <= window_bound{
+//            println!("{} {}", i, (word_trace.len() as i32 -i as i32+1)-(count_2-i as i32*count_1));
+//        }
+        println!("{} {}", i, (word_trace.len() as i32 -i as i32+1)-(count_2-i as i32*count_1));
     }
 }

@@ -22,11 +22,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coocurrence/results/word5-dear-Watson-I.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/coocurrence/results/plot.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1596">
@@ -36,6 +31,11 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coocurrence/results/words_five_10000.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -54,11 +54,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coocurrence/results/word2-221B-Baker-Street.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coocurrence/results/word1-Sherlock-Holmes-Watson.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
@@ -67,10 +62,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/coocurrence/src/coocurrence_words.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1281">
+            <state relative-caret-position="242">
               <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
             </state>
           </provider>
@@ -188,6 +183,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk/ndk-bundle" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -242,7 +238,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579807102421</updated>
       <workItem from="1579807103988" duration="30115000" />
-      <workItem from="1580448226819" duration="1847000" />
+      <workItem from="1580448226819" duration="2054000" />
     </task>
     <task id="LOCAL-00001" summary="run coocurrence_words on sherlockholmes.txt">
       <created>1579844513889</created>
@@ -255,7 +251,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31962000" />
+    <option name="totallyTimeSpent" value="32169000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1171" height="777" extended-state="0" />
@@ -265,14 +261,14 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18157661" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18157661" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Messages" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" weight="0.32884902" />
-      <window_info anchor="bottom" id="Terminal" order="5" visible="true" weight="0.23318386" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="5" visible="true" weight="0.23318386" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Run" order="8" weight="0.27503738" />
@@ -320,9 +316,6 @@
     <entry file="file://$PROJECT_DIR$/coocurrence/data.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/coocurrence/src/output_to_file.rs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/coocurrence/src/coocurrence_char.rs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -368,13 +361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coocurrence/src/coocurrence_words.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1281">
-          <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coocurrence/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -395,9 +381,6 @@
     <entry file="file://$PROJECT_DIR$/coocurrence/results/ word4-do-you-see.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/coocurrence/results/words_five.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/coocurrence/results/plot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1596">
@@ -405,6 +388,22 @@
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coocurrence/results/words_five_10000.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coocurrence/results/words_five.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coocurrence/src/output_to_file.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coocurrence/src/coocurrence_words.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
         </state>
       </provider>
     </entry>
