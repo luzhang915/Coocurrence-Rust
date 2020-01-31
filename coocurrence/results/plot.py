@@ -77,5 +77,5 @@ def plot_multiple():
 	ploter_multiple(x, y1, y2, y3, y4, y5)
 
 
-plot_multiple()
+# plot_multiple()
 plot1()
