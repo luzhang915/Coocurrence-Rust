@@ -1,0 +1,11 @@
+[package]
+name = "lori"
+version = "0.1.0"
+authors = ["Justin Fargnoli <justinfargnoli@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+log = "0.4.7"
+env_logger = "0.6.2"
+csv = "1.1.1"
+serde = { version = "1", features = ["derive"] }
