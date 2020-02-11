@@ -1,7 +1,24 @@
 use std::collections::HashMap;
 use std::vec::Vec;
+use std::fs;
+use std::io::prelude::*;
+use std::path::Path;
 
-pub fn coocurrence_all(trace: &String, set: Vec<String>, window_bound: u32) {
+pub fn coocurrence_all(trace: &String, set: Vec<String>, window_bound: u32) -> std::io::Result<()> {
+//    let content = include_str!("not_existing_file.txt");
+//    println!("{}", content);
+    let mut path = String::from("results/top10/");
+    path.push_str(set[0].as_str());
+    path.push('-');
+    path.push_str(set[1].as_str());
+    path.push('-');
+    path.push_str(set[2].as_str());
+    path.push_str(".txt");
+
+    println!("file created at: {:?}", path);
+    let mut file = fs::File::create(path)?;
+
+
     let mut histogram:HashMap<u32,i32> = HashMap::new();
     let mut reuses:HashMap<String,u32> = HashMap::new();
     let mut stack:Vec<String> = Vec::new();
@@ -58,9 +75,14 @@ pub fn coocurrence_all(trace: &String, set: Vec<String>, window_bound: u32) {
         count_1+=num;
         count_2+=num*(i as i32+1);
 
-//        if i as u32 <= window_bound{
+        if i as u32 <= window_bound {
 //            println!("{} {}", i, (word_trace.len() as i32 -i as i32+1)-(count_2-i as i32*count_1));
-//        }
-        println!("{} {}", i, (word_trace.len() as i32 -i as i32+1)-(count_2-i as i32*count_1));
+            let mut s = "".to_string();
+            let o = s + (i as u32).to_string().as_str() + " " + ((word_trace.len() as i32 -i as i32+1)-(count_2-i as i32*count_1)).to_string().as_str() + "\n";
+            let output = o.as_bytes();
+            file.write_all(output)?;
+        }
     }
+
+    Ok(())
 }
