@@ -31,9 +31,14 @@ mod coocurrence_words;
 //
 //}
 
-fn main() {
+fn basic() {
     let data = fs::read_to_string("SherlockHolmes.txt").expect("Unable to read file");
     let data = data.trim();
     coocurrence_words::coocurrence_all(&data.to_string(), vec!["dear".to_string(), "Watson".to_string(), "I".to_string()], 10000);
 //	coocurrence_char::coocurrence_all(&data.to_string(), vec!['A', 'B', 'C'], 10000);
+}
+
+
+fn main() {
+    basic();
 }
