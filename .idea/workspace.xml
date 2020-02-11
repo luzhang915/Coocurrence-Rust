@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb84b7de-cce6-4419-a832-62da7693c6b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Rust-Coocurrence.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Rust-Coocurrence.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coocurrence/results/ word4-do-you-see.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/coocurrence/results/plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/coocurrence/results/plot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coocurrence/results/word1-Sherlock-Holmes-Watson.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/coocurrence/results/word2-221B-Baker-Street.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/coocurrence/results/word3-deceptive-obvious-fact.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/coocurrence/results/word5-dear-Watson-I.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/coocurrence/results/words_five.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/coocurrence/results/words_five_10000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/coocurrence/src/coocurrence_words.rs" beforeDir="false" afterPath="$PROJECT_DIR$/coocurrence/src/coocurrence_words.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coocurrence/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/coocurrence/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coocurrence/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/coocurrence/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coocurrence/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/coocurrence/test.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +24,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coocurrence/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="906">
-              <caret line="78" column="1" lean-forward="true" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+            <state relative-caret-position="318">
+              <caret line="80" column="12" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
+              <folding>
+                <element signature="e#3119#3120#0" expanded="true" />
+                <element signature="e#3133#3134#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/coocurrence/src/coocurrence_char.rs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1169">
-              <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+              <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -63,7 +58,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coocurrence/results/plot_multiple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
+            <state relative-caret-position="-51">
               <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
@@ -73,37 +68,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coocurrence/results/top10/words_groups.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" selection-end-column="2388" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coocurrence/results/topk_test/words_groups.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="33" selection-end-column="140" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/coocurrence/src/coocurrence_words.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1344">
+            <state relative-caret-position="247">
               <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/coocurrence/src/gen_freq_groups.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-540">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="275">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -150,8 +127,9 @@
         <option value="$PROJECT_DIR$/coocurrence/src/write_to_file.rs" />
         <option value="$PROJECT_DIR$/coocurrence/src/gen_freq_groups.rs" />
         <option value="$PROJECT_DIR$/coocurrence/results/plot_multiple.py" />
-        <option value="$PROJECT_DIR$/coocurrence/src/main.rs" />
         <option value="$PROJECT_DIR$/coocurrence/src/coocurrence_words.rs" />
+        <option value="$PROJECT_DIR$/coocurrence/.gitignore" />
+        <option value="$PROJECT_DIR$/coocurrence/src/main.rs" />
       </list>
     </option>
   </component>
@@ -164,6 +142,7 @@
     <option name="width" value="979" />
     <option name="height" value="777" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -195,12 +174,6 @@
               <item name="coocurrence" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Rust-Coocurrence" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Rust-Coocurrence" type="462c0819:PsiDirectoryNode" />
-              <item name="coocurrence" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -210,6 +183,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk/ndk-bundle" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
@@ -266,7 +240,7 @@
       <workItem from="1580448226819" duration="3050000" />
       <workItem from="1580842151634" duration="41182000" />
       <workItem from="1581194325034" duration="1366000" />
-      <workItem from="1581447797766" duration="1690000" />
+      <workItem from="1581447797766" duration="4565000" />
     </task>
     <task id="LOCAL-00001" summary="run coocurrence_words on sherlockholmes.txt">
       <created>1579844513889</created>
@@ -279,7 +253,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77403000" />
+    <option name="totallyTimeSpent" value="80278000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -334,9 +308,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="run coocurrence_words on sherlockholmes.txt" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/coocurrence/data3.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/coocurrence/trace.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -437,20 +408,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coocurrence/results/plot_multiple.py">
+    <entry file="file://$PROJECT_DIR$/coocurrence/src/coocurrence_char.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1169">
+          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coocurrence/results/top10/words_groups.txt">
+    <entry file="file://$PROJECT_DIR$/coocurrence/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-end-column="2388" />
+        <state relative-caret-position="147">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -461,31 +429,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coocurrence/src/gen_freq_groups.rs">
+    <entry file="file://$PROJECT_DIR$/coocurrence/results/top10/words_groups.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-540">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state>
+          <caret column="7" selection-end-column="2388" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coocurrence/results/plot_multiple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/coocurrence/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="906">
-          <caret line="78" column="1" lean-forward="true" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coocurrence/src/coocurrence_char.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1169">
-          <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+        <state relative-caret-position="318">
+          <caret line="80" column="12" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
+          <folding>
+            <element signature="e#3119#3120#0" expanded="true" />
+            <element signature="e#3133#3134#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/coocurrence/src/coocurrence_words.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
+        <state relative-caret-position="247">
           <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coocurrence/src/gen_freq_groups.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
     </entry>
