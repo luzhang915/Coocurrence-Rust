@@ -1,2 +1,6 @@
 /target
 **/*.rs.bk
+
+/results/top10
+/results/topk_test
+/results/*.txt
