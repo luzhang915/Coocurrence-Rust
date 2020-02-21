@@ -78,3 +78,15 @@ fn basic() {
 fn main() {
     basic();
 }
+
+
+// randomly gen word group of size k e.g. (abcd) (choose unique k words from trace
+// x axis: itemset size yaxis: time to update the histogram
+// x axis: word group size y axis: time
+                        // y axis memory
+//rndom word set
+// larger itemset size?
+
+// more occ as win goes up, derivitive ? line goes and down
+// original + 2nd deriv both should be like bellshape
+

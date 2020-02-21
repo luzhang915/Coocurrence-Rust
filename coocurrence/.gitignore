@@ -4,3 +4,5 @@
 /results/topk_test
 /results/top10
 /results/*.txt
+
+/.idea
